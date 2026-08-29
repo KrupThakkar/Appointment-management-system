@@ -28,6 +28,7 @@ dist/
 dist-ssr/
 build/
 *.local
+.vite/
 
 # Environment variables
 .env
